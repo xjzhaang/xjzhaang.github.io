@@ -5,13 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 <br/><br/>
-
 ## Pre-prints
 Label-free multimodal non-linear microscopy to probe metabolism and myelin distribution in organotypic cerebellar slices, 2024
 <br>
 <span style="font-size:0.9em;">B Asadipour, R Ronzano, J Morizet, **X Zhang**, A Chessel, P Mahou, M Aigrot, B Stankoff, A Desmazieres, E Beaurepaire, C Stringari</span>
 
-[BioImageLoader: Easy Handling of Bioimage Datasets for Machine Learning](https://arxiv.org/pdf/2303.02158), 2021
+[BioImageLoader: Easy Handling of Bioimage Datasets for Machine Learning](https://arxiv.org/pdf/2303.02158), 2023
 <br>
 <span style="font-size:0.9em;">S Lim, **X Zhang**, E Beaurepaire, A Chessel</span>
 
@@ -24,12 +23,4 @@ Label-free multimodal non-linear microscopy to probe metabolism and myelin distr
 [Interpretable exact linear reductions via positivity](https://arxiv.org/pdf/2104.14180), Computational Methods in Systems Biology, 2021.
 <br>
 <span style="font-size:0.9em;">G Pogudin, **X Zhang**</span>
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
-<!-- 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
