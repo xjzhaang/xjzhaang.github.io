@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xingjian Zhang"
 title_separator          : "-"
 name                     : &name "Xingjian Zhang"
-description              : &description "Student at Ecole Polytechnique"
+description              : &description "PhD Student at École Polytechnique & Télécom Paris"
 url                      : https://xjzhaang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xjzhaang/xjzhaang.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Palaiseau, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.fr/citations?user=wElVc0oAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0003-1525-4399"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
