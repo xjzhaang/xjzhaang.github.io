@@ -1,15 +1,16 @@
----
+<!-- ---
 layout: archive
 title: "CV"
-permalink: /cv/
+
 author_profile: true
 redirect_from:
   - /resume
----
+--- -->
 
 {% include base_path %}
 
 ---
+permalink: /cv/
 name: Xingjian Zhang
 header:
   - text: <span class="iconify" data-icon="tabler:phone"></span> (+33) 663899163
