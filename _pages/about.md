@@ -14,13 +14,14 @@ My research aims to quantify cellular nuclear deformations on microgroove substr
 <br/><br/>
 I am interested in **artificial intelligence** and **image processing** applied to bio/medical imaging problems. 
 
+<br/><br/><br/>
 
 ### Contact
 
 Email:  xingjian.zhang@polytechnique.edu  or 
         xingjian.zhang@telecom-paris.fr
-        
-Office: Batiment 65, Bd des Maréchaux, 91120
+<br>
+Office: Batiment 65, Bd des Maréchaux, 91120, Palaiseau
 
 
 
