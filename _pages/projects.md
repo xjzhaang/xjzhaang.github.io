@@ -5,8 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 I have had the opportunity contribute to the following projects in the past.
-<br>
-<br>
+<br/><br/>
 
 ## BioimageLoader
 
