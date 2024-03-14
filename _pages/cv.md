@@ -1,3 +1,17 @@
+--- 
+permalink: /cv/
+name: Xingjian Zhang
+header:
+  - text: <span class="iconify" data-icon="tabler:phone"></span> (+33) 663899163
+  - text: <span class="iconify" data-icon="tabler:mail"></span> xingjian.zhang@polytechnique.edu
+    link: xingjian.zhang@polytechnique.edu
+
+output: 
+  html_document:
+     css: cv.css
+     self_contained: no
+---
+
 <!-- ---
 layout: archive
 title: "CV"
@@ -8,15 +22,6 @@ redirect_from:
 --- -->
 
 {% include base_path %}
-
----
-permalink: /cv/
-name: Xingjian Zhang
-header:
-  - text: <span class="iconify" data-icon="tabler:phone"></span> (+33) 663899163
-  - text: <span class="iconify" data-icon="tabler:mail"></span> xingjian.zhang@polytechnique.edu
-    link: xingjian.zhang@polytechnique.edu
----
 
 ## Education
 
