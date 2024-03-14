@@ -17,7 +17,7 @@ title: "Projects"
 # header:
 #   og_image: "software/spatial_weighting.png"
 ---
-I have had the opportunity contribute to some projects.
+I have had the opportunity contribute to the following projects.
 
 # BioimageLoader
 
