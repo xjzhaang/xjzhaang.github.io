@@ -18,8 +18,8 @@ I am interested in **artificial intelligence** and **image processing** applied 
 
 ### Contact
 
-Email:  <span style="color:#02426a"> xingjian.zhang&commat;polytechnique.edu </span>  or 
-       <span style="color:#df0a36"> xingjian.zhang&commat;telecom-paris.fr </span>
+Email:  <span style="color:#02426a"> xingjian.zhang@polytechnique.edu </span>  or 
+       <span style="color:#df0a36"> xingjian.zhang@telecom-paris.fr </span>
 <br>
 Office: Batiment 65, Bd des Maréchaux, 91120, Palaiseau
 
