@@ -6,6 +6,7 @@ author_profile: true
 ---
 I have had the opportunity contribute to the following projects in the past.
 <br>
+<br>
 
 ## BioimageLoader
 
@@ -17,8 +18,9 @@ I have had the opportunity contribute to the following projects in the past.
 [![License](https://img.shields.io/github/license/LaboratoryOpticsBiosciences/bioimageloader)](https://github.com/LaboratoryOpticsBiosciences/bioimageloader/blob/main/LICENSE)
 
 [_bioimageloader_](https://github.com/LaboratoryOpticsBiosciences/bioimageloader) is a python library to make it easy to load bioimage datasets for
-machine learning and deep learning. Bioimages come in numerous and inhomogeneous forms. 
-_bioimageloader_ attempts to wrap them in unified interfaces, so that you can easily
+machine learning and deep learning. 
+
+Bioimages come in numerous and inhomogeneous forms. _bioimageloader_ attempts to wrap them in unified interfaces, so that you can easily
 concatenate, perform image augmentation, and batch-load them.
 
 **_bioimageloader_ provides**
