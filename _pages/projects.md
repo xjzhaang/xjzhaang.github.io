@@ -6,7 +6,7 @@ author_profile: true
 ---
 I have had the opportunity contribute to the following projects.
 
-<!-- # BioimageLoader
+# BioimageLoader
 
 > _Load bioimages for machine learning applications_
 
@@ -26,4 +26,4 @@ concatenate, perform image augmentation, and batch-load them.
 2. image augmentation using [albumentations], which is popular and powerful
    image augmentation library (for 2D images)
 3. compatibility with [pytorch]
-4. and with others such as [scikit-learn] and [tensorflow] -->
+4. and with others such as [scikit-learn] and [tensorflow]
