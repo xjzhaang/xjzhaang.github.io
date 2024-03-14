@@ -3,6 +3,9 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+redirect_from: 
+  - /projects/
+  - /projects.html
 ---
 I have had the opportunity contribute to the following projects.
 
