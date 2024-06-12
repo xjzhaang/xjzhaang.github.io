@@ -23,6 +23,10 @@ Label-free multimodal non-linear microscopy to probe metabolism and myelin distr
 <br>
 <span style="font-size:0.9em;">B Asadipour, E Beaurepaire, **X Zhang**, A Chessel, P Mahou, W Supatto, MC Schanne-Klein, C Stringari</span>
 
+[Myoblast mutation classification via microgroove-induced nuclear deformations](https://openreview.net/pdf?id=687qKBVmEN), *Medical Imaging with Deep Learning, 2024*
+<br>
+<span style="font-size:0.9em;">X Zhang, C Leclech, B Roellinger, C Coirault, E Angelini, AI Barakat</span>
+
 [Interpretable exact linear reductions via positivity](https://arxiv.org/pdf/2104.14180), *Computational Methods in Systems Biology, 2021*
 <br>
 <span style="font-size:0.9em;">G Pogudin, **X Zhang**</span>
