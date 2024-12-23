@@ -19,6 +19,10 @@ Label-free multimodal non-linear microscopy to probe metabolism and myelin distr
 <br/><br/>
 ## Peer-reviewed articles
 
+Micro-scale topography triggers dynamic 3D nuclear deformations, *Advanced Science, Accepted*
+<br>
+<span style="font-size:0.9em;">C Leclech, G Cardillo, B Roellinger, **X Zhang**, J Frederick, K Mamchaoui, C Coirault, AI Barakat</span>
+
 [Modeling and predicting second harmonic generation from protein molecular structure](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.14.011038), *Physical Review X, 2024*
 <br>
 <span style="font-size:0.9em;">B Asadipour, E Beaurepaire, **X Zhang**, A Chessel, P Mahou, W Supatto, MC Schanne-Klein, C Stringari</span>
