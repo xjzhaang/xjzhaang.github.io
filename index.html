@@ -102,6 +102,16 @@
             margin-bottom: 0.8rem;
         }
 
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.8rem;
+        }
+
+        h3 {
+            font-size: 1.2rem;
+            margin: 1.5rem 0 1rem 0;
+        }
+        
         nav {
             border-top: 1px solid #eee;
             border-bottom: 1px solid #eee;
@@ -117,6 +127,22 @@
             margin-right: 1.5rem;
             font-size: 0.9rem;
         }
+
+        .social-links a:hover {
+            color: #AC145A;
+           
+        }
+        
+        /* Added at line 82 */
+        a {
+            color: #0085CA;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #AC145A;
+        }
+        
 
         .publications-list {
             list-style-type: none;
@@ -140,6 +166,50 @@
             .project-container {
                 padding: 1.5rem;
             }
+        }
+        
+        section {
+            margin-bottom: 3rem;
+            scroll-margin-top: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid #eee;
+        }
+
+        .publications-list {
+            list-style-type: none;
+            padding-left: 2rem;
+            margin-top: 1rem;
+        }
+
+        .publication-item {
+            position: relative;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
+            padding-left: 1.5rem;
+        }
+
+        .publication-item::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: #014260;
+            font-size: 1.2rem;
+        }
+
+        .pdf-link {
+            color: #0085CA;
+            text-decoration: none;
+        }
+        .project-container {
+            margin-top: 1rem;
+            padding: 1.5rem;
+            background: #f8f8f8;
+            border-radius: 8px;
+        }
+
+        .project-subtitle {
+            color: #666;
+            margin-top: 0.5rem;
         }
 
         .badges {
