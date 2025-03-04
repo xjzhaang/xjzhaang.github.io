@@ -113,22 +113,40 @@
             font-size: 1.2rem;
             margin: 1.5rem 0 1rem 0;
         }
+        
+        #about {
+            margin-top: 2rem; /* Increase this value to add more space */
+        }
 
-        nav {
+        /* Sticky navigation styles */
+        .nav-container {
+            position: sticky;
+            top: 0;
+            background-color: white;
+            z-index: 1000;
+            width: 100%;
             border-top: 1px solid #eee;
             border-bottom: 1px solid #eee;
+        }
+
+        nav {
             padding: 1rem 0;
-            margin: 2rem 0;
+            margin: 0 auto;
+            max-width: 52rem;
             overflow-x: auto;
             white-space: nowrap;
         }
 
         nav a {
             color: #666;
+            color: #014260;
+            color: #00677F;
             text-decoration: none;
             margin-right: 1.5rem;
+            font-weight: bold;
             font-size: 0.9rem;
         }
+
 
         .social-links a:hover {
             color: #AC145A;
@@ -145,6 +163,13 @@
             color: #AC145A;
         }
         
+        /* Add some padding to sections to prevent content from being hidden under the sticky nav */
+        section {
+            margin-bottom: 3rem;
+            scroll-margin-top: 4rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid #eee;
+        }
 
         .publications-list {
             list-style-type: none;
@@ -168,13 +193,6 @@
             .project-container {
                 padding: 1.5rem;
             }
-        }
-        
-        section {
-            margin-bottom: 3rem;
-            scroll-margin-top: 2rem;
-            padding-bottom: 1rem;
-            border-bottom: 1px solid #eee;
         }
 
         .publications-list {
@@ -257,13 +275,16 @@
                 </div>
                 <img src="content/profile.png" alt="Profile" class="profile-img">
             </div>
+        </header>
+
+        <div class="nav-container">
             <nav>
                 <a href="#about">About</a>
                 <a href="#publications">Publications</a>
                 <a href="#projects">Projects</a>
                 <a href="#contact">Contact</a>
             </nav>
-        </header>
+        </div>
 
         <section id="about">
             <h2>About me</h2>
@@ -356,7 +377,9 @@
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
                 e.preventDefault();
-                document.querySelector(this.getAttribute('href')).scrollIntoView();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
             });
         });
     </script>
