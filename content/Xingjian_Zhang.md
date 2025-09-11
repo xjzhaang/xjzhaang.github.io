@@ -33,9 +33,9 @@ B.S. in Computer Science and Mathematics
 
 
 - **Conducting** deep learning research to study cellular nuclear deformations on microgroove substrates to develop a functional in-vitro diagnostic tool for laminopathies and breast cancer.
-- **Contributing** to collaborative research projects across domains including 4D MRI flow modeling, tabular machine learning on surgery data, and spatial-temporal imaging integration.
+- **Worked on** collaborative research projects across domains including 4D flow MRI modeling and ML on tabular surgery data (Marie Lannelongue Hospital), time-series electrical impedance data (Sensome), and skin conductance data (EloCare, NUS).
 - **Teaching** assistance in master-level (Deep Learning, Medical Imaging, Object Recognition) and bachelor-level (Machine Learning, Web Programming) courses at Télécom Paris and École Polytechnique.
-- **Supervising** M2 research projects on computer vision topics at Télécom Paris.
+- **Supervised** M2 research projects on computer vision topics at Télécom Paris.
 </div>
 
 <div class="job-section">
