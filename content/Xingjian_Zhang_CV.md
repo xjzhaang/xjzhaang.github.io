@@ -91,9 +91,9 @@ B.S. in Computer Science and Mathematics
 
 ## Selected Presentations
 
-- "Deep learning classification of laminopathy mutations on microgroove substrates", <span class="conference">ESB 2025 Congress</span>, Zürich, Switzerland
-- "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">MIDL 2024</span>, Paris, France
-- "Interpretable exact linear reductions via positivity", <span class="conference">CMSB 2021</span>, Bordeaux, France
+- "Deep learning classification of laminopathy mutations on microgroove substrates", <span class="conference">ESB 2025 Congress</span>, Zürich, Switzerland (Oral)
+- "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">MIDL 2024</span>, Paris, France (Poster)
+- "Interpretable exact linear reductions via positivity", <span class="conference">CMSB 2021</span>, Bordeaux, France (Oral)
 
 </div>
 
