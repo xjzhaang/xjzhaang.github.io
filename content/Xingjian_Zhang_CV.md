@@ -9,7 +9,7 @@ header:
 ---
 
 ## Research Interests
-Computer vision and deep learning for biomedical imaging. Core expertise in AI/ML approaches: microscopy image processing, medical image classification/segmentation, and cellular morphology analysis. Interdisciplinary background bridging machine learning and biomechanics.
+Computer vision and deep learning for biomedical imaging. Core expertise in AI/ML methods for microscopy image analysis, medical image segmentation, and cellular morphology classification. Interdisciplinary background bridging machine learning and biomechanics. Interested in expanding AI methods to multimodal biomedical signals and data types.
 
 ## Education
 <strong class="job-title">École Polytechnique, Institut Polytechnique de Paris</strong>
@@ -43,6 +43,7 @@ B.S. in Computer Science and Mathematics
         <div class="job-title">Deep Learning Intern <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Dassault Systèmes</span></div>
         <span class="date-right">Mar 2023 - Sep 2023</span>
     </div>
+
 
 - **Conducted**  research in 3D tumor segmentation for the TwinOnco project, advancing beyond existing methods that relied on 2D slice segmentation and aggregation.
 - **Designed and implemented**  deep learning models to segment tumor boundaries in complex medical imaging datasets in 3D.
@@ -86,6 +87,15 @@ B.S. in Computer Science and Mathematics
 </div>
 
 
+<div class="publications-section">
+
+## Selected Presentations
+
+- "Deep learning classification of laminopathy mutations on microgroove substrates", <span class="conference">ESB 2025 Congress</span>, Zürich, Switzerland
+- "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">MIDL 2024</span>, Paris, France
+- "Interpretable exact linear reductions via positivity", <span class="conference">CMSB 2021</span>, Bordeaux, France
+
+</div>
 
 ## Skills
 
