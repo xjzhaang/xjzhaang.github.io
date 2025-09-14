@@ -14,7 +14,7 @@ Computer vision and deep learning for biomedical imaging. Core expertise in AI/M
 ## Education
 <strong class="job-title">École Polytechnique, Institut Polytechnique de Paris</strong>
 
-Ph.D. candidate in AI for Biomechanics 
+Ph.D. candidate in Biomedical Engineering (AI for bioimaging) 
   <span class="date-right">2023 - Present</span></div>
 
 M.S. in Mechanics - Biomechanics and Biomedical Engineering
@@ -40,7 +40,7 @@ B.S. in Computer Science and Mathematics
 
 <div class="job-section">
     <div class="job-header">
-        <div class="job-title">Deep Learning Intern <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Dassault Systèmes</span></div>
+        <div class="job-title">Deep Learning Research Engineer  <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Dassault Systèmes</span></div>
         <span class="date-right">Mar 2023 - Sep 2023</span>
     </div>
 
