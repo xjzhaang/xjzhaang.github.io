@@ -12,25 +12,27 @@ header:
 Computer vision and deep learning for biomedical imaging. Core expertise in AI/ML methods for microscopy image analysis, medical image segmentation, and cellular morphology classification. Interdisciplinary background bridging machine learning and biomechanics. Interested in expanding AI methods to multimodal biomedical signals and data types.
 
 ## Education
-<strong class="job-title">École Polytechnique, Institut Polytechnique de Paris</strong>
+<div class="job-header">
+<div class="job-title">École Polytechnique, Institut Polytechnique de Paris </div><span class="date-right">France</span> 
+</div>
 
 Ph.D. candidate in Biomedical Engineering (AI for bioimaging) 
-  <span class="date-right">2023 - Present</span></div>
+  <span class="date-right">2023 - Present</span>
 
 M.S. in Mechanics - Biomechanics and Biomedical Engineering
-  <span class="date-right">2021 - 2023</span></div>
+  <span class="date-right">2021 - 2023</span>
 
 B.S. in Computer Science and Mathematics
-  <span class="date-right">2018 - 2021</span></div>
+  <span class="date-right">2018 - 2021</span>
+
 
 ## Experience
 
 <div class="job-section">
 <div class="job-header">
-            <div class="job-title">PhD candidate <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name"> LadHyX, École Polytechnique & LTCI, Télécom Paris</span></div>
+            <div class="job-title">PhD candidate <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name"> LadHyX, École Polytechnique & LTCI, Télécom Paris, France</span></div>
             <span class="date-right">Nov 2023 - Present</span>
- </div>
-
+</div>
 
 - **Conducting** deep learning research to study cellular nuclear deformations on microgroove substrates to develop a functional in-vitro diagnostic tool for laminopathies and breast cancer.
 - **Worked on** collaborative research projects across domains including 4D flow MRI modeling and ML on tabular surgery data (Marie Lannelongue Hospital), time-series electrical impedance data (Sensome), and skin conductance data (EloCare, NUS).
@@ -39,8 +41,8 @@ B.S. in Computer Science and Mathematics
 </div>
 
 <div class="job-section">
-    <div class="job-header">
-        <div class="job-title">Deep Learning Research Engineer  <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Dassault Systèmes</span></div>
+  <div class="job-header">
+        <div class="job-title">Deep Learning Research Engineer  <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Dassault Systèmes, France</span></div>
         <span class="date-right">Mar 2023 - Sep 2023</span>
     </div>
 
@@ -51,7 +53,7 @@ B.S. in Computer Science and Mathematics
 
 <div class="job-section">
   <div class="job-header">
-        <div class="job-title">Research Intern <span style="font-weight: normal;">&nbsp;|&nbsp;</span><span class="company-name">LOB, École Polytechnique </span></div>
+        <div class="job-title">Research Intern <span style="font-weight: normal;">&nbsp;|&nbsp;</span><span class="company-name">LOB, École Polytechnique, France</span></div>
         <span class="date-right">Apr 2022 - Mar 2023</span>
   </div>
 
