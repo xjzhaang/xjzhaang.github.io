@@ -9,7 +9,7 @@ header:
 ---
 
 ## Research Interests
-Computer vision and deep learning for biomedical imaging. Core expertise in AI/ML methods for microscopy image analysis, medical image segmentation, and cellular morphology classification. Interdisciplinary background bridging machine learning and biomechanics. Interested in expanding AI methods to multimodal biomedical signals and data types.
+AI/ML methods for multimodal data analysis and pattern recognition. Experience with biomedical imaging, time series analysis, and medical data processing using deep learning approaches. Interested in biomedical AI research and applications in other data-driven research domains.
 
 ## Education
 <div class="job-header">
