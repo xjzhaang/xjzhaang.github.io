@@ -9,8 +9,7 @@ header:
 ---
 
 ## Research Interests
-AI/ML methods for multimodal data analysis and pattern recognition. Experience with biomedical imaging, time series analysis, and medical
-data processing using deep learning approaches. Interested in AI biomedical research and applications in other data-driven research domains.
+AI/ML methods in computer vision for bioimaging and medical imaging. Experience with GANs, diffusion models, and self-supervised learning approaches. Interested in applying AI to different bio/medical imaging modalities and research.
 
 ## Education
 <strong class="job-title">École Polytechnique, Institut Polytechnique de Paris</strong>
@@ -35,8 +34,8 @@ B.S. in Computer Science and Mathematics
  </div>
 
 
-- **Conducting** deep learning research to study cellular nuclear deformations on microgroove substrates to develop a functional in-vitro diagnostic tool for laminopathies and breast cancer.
-- **Worked on** collaborative research projects across domains including 4D flow MRI modeling and ML on tabular surgery data (Marie Lannelongue Hospital), time-series electrical impedance data (Sensome), and skin conductance data (EloCare, NUS).
+- **Applying** deep learning techniques to microscopy imaging data to quantify cellular nuclear deformations on microgroove substrates, advancing in-vitro diagnostic capabilities for laminopathies and breast cancer.
+- **Contributed to** collaborative research projects across domains including 4D flow MRI modeling and ML on tabular surgery data (Marie Lannelongue Hospital), time-series electrical impedance data (Sensome), and skin conductance data (EloCare, NUS).
 - **Teaching** assistance in master-level (Deep Learning, Medical Imaging, Object Recognition) and bachelor-level (Machine Learning, Web Programming) courses at Télécom Paris and École Polytechnique.
 - **Supervised** M2 research projects on computer vision topics at Télécom Paris.
 </div>
@@ -108,8 +107,8 @@ B.S. in Computer Science and Mathematics
 
 **Languages:** Chinese (native), English (C2), French (B2)
 
-## References
-Available upon request
+<!-- ## References
+Available upon request -->
 <!-- 
 ## Awards 
 
