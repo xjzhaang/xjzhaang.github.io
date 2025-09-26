@@ -21,7 +21,7 @@ body {
 }
 
 .job-section {
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.5rem;
 }
 
 .job-title {
@@ -111,13 +111,30 @@ body {
 /* Job section lists with shorter right margin */
 #resume-preview .job-section ul,
 #resume-preview .job-section ol {
-  margin-right: 1.3em; /* Right margin only for job sections */
+  margin-right: 2em; /* Right margin only for job sections */
 }
 
 #resume-preview .publications-section ul {
   margin-left: 0.5em;
+  margin: 0em;
+  margin-bottom: 0.3em;
   color: rgb(15, 15, 15);
   list-style-type: square;
+}
+
+/* Add spacing between publication entries */
+
+#resume-preview .job-section ul li {
+  margin-bottom: 0.2em; /* Adjust this value to increase/decrease spacing */
+}
+
+#resume-preview .publications-section ul li {
+  margin-bottom: 0.2em; /* Adjust this value to increase/decrease spacing */
+}
+
+/* Optional: Remove margin from the last item to avoid extra space at bottom */
+#resume-preview .publications-section ul li:last-child {
+  margin-bottom: 0;
 }
 
 /* Definition Lists */
@@ -202,6 +219,7 @@ body {
 #resume-preview ul ul {
   list-style-type: none; /* Remove default bullets */
   position: relative; /* For positioning the custom dash */
+  
 }
 
 #resume-preview ul ul li:before {
