@@ -31,7 +31,7 @@ B.S. in Computer Science and Mathematics
             <span class="date-right">Nov 2023 - Present</span>
  </div>
 
-- **Applying** deep learning techniques to microscopy imaging data to quantify cellular nuclear deformations on microgroove substrates, advancing in-vitro diagnostic capabilities for laminopathies and breast cancer
+- **Applying** deep learning techniques to microscopy imaging data to quantify cellular nuclear deformations on microgroove substrates, developing end-to-end ML pipelines from model training to inference deployment, advancing in-vitro diagnostic capabilities for laminopathies and breast cancer
 
 - **Clinical collaborations** with Marie Lannelongue Hospital surgeons and medtech startups (Sensome, EloCare) yielding clinically-adopted workflows and published biomedical sensing research
 
