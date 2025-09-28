@@ -9,10 +9,13 @@ header:
 ---
 
 ## Education
+<div class="job-header">
 <strong class="job-title">École Polytechnique</strong>
+  <span class="date-right">Paris, France</span>
+</div>
 
 <em>PhD in Biomedical Engineering (AI for Biomedical Imaging)</em> 
-  <span class="date-right">2023 - 2026</span></div>
+  <span class="date-right">2023 - 2026</span>
 
 - Supervised by Abdul Barakat (École Polytechnique), Elsa Angelini (Télécom Paris)
 - Expected completion: 2026-2027
@@ -23,7 +26,7 @@ header:
 </div>
 
 <em>BSc in Mathematics and Computer Science</em>
-  <span class="date-right">2018 - 2021</span></div>
+  <span class="date-right">2018 - 2021</span>
 
 ## Experience
 
@@ -35,7 +38,7 @@ header:
 
 - **Applying** deep learning techniques to microscopy imaging data to quantify cellular nuclear deformations on microgroove substrates, developing end-to-end ML pipelines from model training to inference deployment, advancing in-vitro diagnostic capabilities for laminopathies and breast cancer
 
-- **Clinical collaborations** with Marie Lannelongue Hospital surgeons and medtech startups (Sensome, EloCare) yielding clinically-adopted workflows and published biomedical sensing research
+- **Collaborations** with Marie Lannelongue Hospital surgeons and medtech startups (Sensome, EloCare) yielding clinically-adopted workflows for 4D flow MRI and published biomedical sensing research
 
 - **Teaching and supervision** at Télécom Paris and École Polytechnique: TA for master-level courses (ML, DL, Medical Imaging, Object Recognition) and supervised M2 research projects on computer vision topics
 </div>
