@@ -36,7 +36,7 @@ header:
             <span class="date-right">Nov 2023 - Present</span>
  </div>
 
-- **Applying** deep learning techniques to microscopy imaging data to quantify cellular nuclear deformations on microgroove substrates, developing end-to-end ML pipelines from model training to inference deployment, advancing in-vitro diagnostic capabilities for laminopathies and breast cancer
+- **Applying** deep learning techniques to microscopy imaging data to quantify cellular nuclear deformations on microgrooved substrates, developing end-to-end ML pipelines for in-vitro diagnostic of laminopathies and breast cancer
 
 - **Collaborations** with Marie Lannelongue Hospital surgeons and medtech startups (Sensome, EloCare) yielding clinically-adopted workflows for 4D flow MRI and published biomedical sensing research
 
@@ -71,6 +71,8 @@ header:
 
 <strong class="job-title">Peer-reviewed Publications</strong>
 
+- B Asadipour, R Ronzano, J Morizet, <u>X Zhang</u>, et al., "Label-free multimodal non-linear microscopy to probe metabolism and myelin distribution", <span class="conference">Communications Biology</span>, 2025
+
 - MC Yagüe, <u>X Zhang</u>, et al., "Noninvasive real-time monitoring of cellular spatiotemporal dynamics via machine learning-enhanced electrical impedance spectroscopy", <span class="conference"><strong>Science Advances</strong></span>, 2025.
 
 - C Leclech, G Cardillo, B Roellinger, <u>X Zhang</u>, et al., "Microscale topography triggers dynamic 3D nuclear deformations", <span class="conference"><strong>Advanced Science</strong></span>, 2025.
@@ -84,9 +86,7 @@ header:
 - G Pogudin, <u>X Zhang</u>, "Interpretable exact linear reductions via positivity", <span class="conference"><em>CMSB</em></span>, 2021.
 
 <strong class="job-title">Pre-prints / under review</strong>
-
-- B Asadipour, R Ronzano, J Morizet, <u>X Zhang</u>, et al., "Label-free multimodal non-linear microscopy to probe metabolism and myelin distribution"
-
+- <u>X Zhang</u> et al., "Log focal frequency loss for bioimage restoration"
 - S Lim, <u>X Zhang</u>, et al., "BioImageLoader: Easy handling of bioimage datasets for machine learning"
 
 </div>
