@@ -65,11 +65,13 @@ header:
 
 
 
-## Publications
+<!-- ## Publications
 
 <div class="publications-section">
 
 <strong class="job-title">Peer-reviewed Publications</strong>
+
+- <u>X Zhang</u> et al., "Log focal frequency loss for bioimage restoration", <span class="conference"><em>ISBI (accepted)</em></span>, 2026
 
 - B Asadipour, R Ronzano, J Morizet, <u>X Zhang</u>, et al., "Label-free multimodal non-linear microscopy to probe metabolism and myelin distribution", <span class="conference">Communications Biology</span>, 2025
 
@@ -86,20 +88,46 @@ header:
 - G Pogudin, <u>X Zhang</u>, "Interpretable exact linear reductions via positivity", <span class="conference"><em>CMSB</em></span>, 2021.
 
 <strong class="job-title">Pre-prints / under review</strong>
-- <u>X Zhang</u> et al., "Log focal frequency loss for bioimage restoration"
 - S Lim, <u>X Zhang</u>, et al., "BioImageLoader: Easy handling of bioimage datasets for machine learning"
+
+</div> -->
+
+## Publications
+
+<div class="publications-section">
+
+<strong class="job-title">Journal Articles</strong>
+
+- B Asadipour, R Ronzano, J Morizet, <u>X Zhang</u>, et al., "Label-free multimodal non-linear microscopy to probe metabolism and myelin distribution", <span class="conference">Communications Biology</span>, 2025
+
+- MC Yagüe, <u>X Zhang</u>, et al., "Noninvasive real-time monitoring of cellular spatiotemporal dynamics via machine learning-enhanced electrical impedance spectroscopy", <span class="conference">Science Advances</span>, 2025
+
+- C Leclech, G Cardillo, B Roellinger, <u>X Zhang</u>, et al., "Microscale topography triggers dynamic 3D nuclear deformations", <span class="conference">Advanced Science</span>, 2025
+
+- A Hauguel, K Kasani, V Chevance, <u>X Zhang</u>, et al., "Changes in ascending aorta and aortic arch secondary flow patterns following endovascular repair", <span class="conference">European Journal of Vascular and Endovascular Surgery</span>, 2025
+
+- B Asadipour, E Beaurepaire, <u>X Zhang</u>, et al., "Modeling and predicting second harmonic generation from protein molecular structure", <span class="conference">Physical Review X</span>, 2024
+
+<div style="margin-top: 0.5em;">
+<strong class="job-title">Conference Proceedings</strong>
+
+- <u>X Zhang</u>, C Leclech, L Blivet-Bailly, AI Barakat, and ED Angelini, "Log focal frequency loss for bioimage restoration", <span class="conference"><em>IEEE International Symposium on Biomedical Imaging (ISBI)</em></span>, 2026
+
+- <u>X Zhang</u>, C Leclech, B Roellinger, C Coirault, ED Angelini, and AI Barakat, "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">Medical Imaging with Deep Learning (MIDL)</span>, 2024
+
+- G Pogudin and <u>X Zhang</u>, "Interpretable exact linear reductions via positivity", <span class="conference">Computational Methods in Systems Biology (CMSB)</span>, 2021
 
 </div>
 
 <div class="publications-section">
 
-## Selected Presentations
+<!-- ## Selected Presentations
 
 - "Deep learning classification of laminopathy mutations on microgroove substrates", <span class="conference">ESB 2025 Congress</span>, Zürich, Switzerland (Oral)
 - "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">MIDL 2024</span>, Paris, France (Poster)
 - "Interpretable exact linear reductions via positivity", <span class="conference">CMSB 2021</span>, Bordeaux, France (Oral)
 
-</div>
+</div> -->
 
 ## Skills
 
