@@ -71,26 +71,28 @@ PhD candidate in AI for biomedical imaging with expertise in deep learning focus
 
 <strong class="job-title">First Author</strong>
 
-- <u>X Zhang</u>, C Leclech, L Blivet-Bailly, AI Barakat, and ED Angelini, "Log focal frequency loss for bioimage restoration", <span class="conference"><em>IEEE International Symposium on Biomedical Imaging (ISBI)</em></span>, 2026
+- <span class="thin-underline">X Zhang</span>, C Leclech, L Blivet-Bailly, AI Barakat, and ED Angelini, "Log focal frequency loss for bioimage restoration", <span class="conference"><em>IEEE International Symposium on Biomedical Imaging (ISBI)</em></span>, 2026
 
-- <u>X Zhang</u>, C Leclech, B Roellinger, C Coirault, ED Angelini, and AI Barakat, "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">Medical Imaging with Deep Learning (MIDL)</span>, 2024
+- <span class="thin-underline">X Zhang</span>, C Leclech, B Roellinger, C Coirault, ED Angelini, and AI Barakat, "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">Medical Imaging with Deep Learning (MIDL)</span>, 2024
 
 
-<div style="margin-top: 0.5em;">
-<strong class="job-title" style="display: inline;">Key Collaborations</strong> <span style="font-size: 0.85em; font-weight: normal;">(&dagger; denotes equal contribution)</span>
+<div style="margin-top: 0.5em; margin-bottom: 0.1em;">
+<strong class="job-title" style="display: inline;">Key Collaborations</strong> <span style="font-size: 0.85em; font-weight: normal;">(† denotes equal contribution)</span>
 </div>
 
-- MC Yagüe, <u>X Zhang</u>, et al., "Noninvasive real-time monitoring of cellular spatiotemporal dynamics via machine learning-enhanced electrical impedance spectroscopy", <span class="conference">Science Advances</span>, 2025
+- MC Yagüe, <span class="thin-underline">X Zhang</span>, et al., "Noninvasive real-time monitoring of cellular spatiotemporal dynamics via machine learning-enhanced electrical impedance spectroscopy", <span class="conference"><strong>Science Advances</strong></span>, 2025
 
-- B Asadipour, R Ronzano&dagger;, J Morizet&dagger;, <u>X Zhang</u>&dagger;, et al., "Label-free multimodal non-linear microscopy to probe metabolism and myelin distribution", <span class="conference">Communications Biology</span>, 2025
+- B Asadipour, R Ronzano&dagger;, J Morizet&dagger;, <span class="thin-underline">X Zhang</span>&dagger;, et al., "Label-free multimodal non-linear microscopy to probe metabolism and myelin distribution", <span class="conference"><strong>Communications Biology</strong></span>, 2025
 
-- B Asadipour, E Beaurepaire, <u>X Zhang</u>, et al., "Modeling and predicting second harmonic generation from protein molecular structure", <span class="conference">Physical Review X</span>, 2024
+- B Asadipour, E Beaurepaire, <span class="thin-underline">X Zhang</span>, et al., "Modeling and predicting second harmonic generation from protein molecular structure", <span class="conference"><strong>Physical Review X</strong></span>, 2024
 
-- C Leclech, G Cardillo, B Roellinger, <u>X Zhang</u>, et al., "Microscale topography triggers dynamic 3D nuclear deformations", <span class="conference">Advanced Science</span>, 2025
+- C Leclech, G Cardillo, B Roellinger, <span class="thin-underline">X Zhang</span>, et al., "Microscale topography triggers dynamic 3D nuclear deformations", <span class="conference"><strong>Advanced Science</strong></span>, 2025
 
 
-- A Hauguel, K Kasani, V Chevance, <u>X Zhang</u>, et al., "Changes in ascending aorta and aortic arch secondary flow patterns following endovascular repair", <span class="conference">European Journal of Vascular and Endovascular Surgery</span>, 2025
+- A Hauguel, K Kasani, V Chevance, <span class="thin-underline">X Zhang</span>, et al., "Changes in ascending aorta and aortic arch secondary flow patterns following endovascular repair", <span class="conference">European Journal of Vascular and Endovascular Surgery</span>, 2025
 
+
+</div>
 
 <div class="publications-section">
 
