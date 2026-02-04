@@ -10,7 +10,8 @@ header:
 
 ## Summary
 
-PhD candidate in AI for biomedical imaging with expertise in deep learning focusing on self-supervised learning and GAN/diffusion image restoration. Experienced in developing ML pipelines for clinical applications, with contributions to high-impact research (Science Advances, Communications Biology) and industry experience.
+PhD candidate in AI for biomedical imaging specializing in self-supervised learning and generative models for image restoration. 
+Contributions to high-impact research (Science Advances, Communications Biology) with industry ML experience.
 
 
 ## Education
@@ -42,7 +43,7 @@ PhD candidate in AI for biomedical imaging with expertise in deep learning focus
 
 - **Applying** deep learning techniques to microscopy imaging data to quantify cellular nuclear deformations on microgrooved substrates, developing end-to-end ML pipelines for in-vitro diagnostic of laminopathies and breast cancer
 
-- **Teaching and supervision** at Télécom Paris and École Polytechnique: TA for master-level courses (ML, DL, Medical Imaging, Object Recognition) and supervised M2 research projects on computer vision topics
+- **Teaching and supervision** at Télécom Paris and École Polytechnique: TA for master-level courses (ML, DL, Medical Imaging, Object Recognition) and co-supervision of multiple Master's research projects on CV and biomedical imaging topics
 </div>
 
 <div class="job-section">
@@ -100,8 +101,9 @@ PhD candidate in AI for biomedical imaging with expertise in deep learning focus
 ## Projects
 
 **Industry ML Applications**
-- Electrical impedance spectroscopy for cellular monitoring (Sensome) - Science Advances 2025
-- Skin conductance analysis for hot flash detection (Elocare/NUS) - ongoing 2026
+- Leading ML development for automated hot flash detection via skin conductance (Elocare/NUS, Singapore) | ongoing 2026
+- Developed ML models for electrical impedance spectroscopy in cellular monitoring (Sensome) | Science Advances 2025
+
 
 **Open Source**
 - BioImageLoader: Python library for large-scale bioimage data loading in ML pipelines
