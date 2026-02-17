@@ -1,0 +1,235 @@
+/* Backbone CSS for Resume Template 1 */
+
+/* Basic */
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.thin-underline {
+    text-decoration: underline;
+    text-decoration-thickness: 0.5px;
+    text-underline-offset: 1.5px; /* Optional: adjusts space between text and line */
+}
+
+.conference {
+    color: rgb(0, 0, 0);
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Job header - flex layout to keep title and date on same line */
+.job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0em;
+    margin-top: 0.5em;
+}
+
+.job-section {
+    margin-bottom: 0.5rem;
+}
+
+.job-title {
+    display: flex;
+    font-size: 1.1em;
+    font-weight: bold;  /* Job titles should be bold */
+    margin-bottom: 0.1rem;
+    line-height: 1.2;
+    text-transform: none;
+    color: #000000;  /* Slightly darker for emphasis */
+}
+
+.company-name {
+    font-style: italic;
+    font-weight: normal;
+    color: #000000;
+    font-size: 1em;
+}
+
+
+.date-right {
+    float: right;
+    color: #51595a;
+    font-size: 0.9em;
+}
+
+
+#resume-preview [data-scope="vue-smart-pages"][data-part="page"] {
+  background-color: white;
+  color: black;
+  text-align: justify;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+#resume-preview p,
+#resume-preview li，
+#resume-preview dl {
+  margin: 0;
+  
+}
+
+/* Headings */
+
+#resume-preview h1,
+#resume-preview h2,
+#resume-preview h3 {
+  font-weight: bold;
+}
+
+#resume-preview h1 {
+  font-size: 2.12em;
+}
+
+#resume-preview h2,
+#resume-preview h3 {
+  margin-bottom: 5px;
+  font-size: 1.5em;
+}
+#resume-preview h4 {
+  font-size: 1.2em;
+}
+#resume-preview h2 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
+/* Lists */
+
+#resume-preview ul,
+#resume-preview ol {
+  padding-left: 1.5em;
+  margin: 0.1em 0;
+}
+
+#resume-preview ul {
+  margin-left: 0.5em;
+}
+
+#resume-preview ol {
+  list-style-type: decimal;
+}
+
+/* Job section lists with shorter right margin */
+#resume-preview .job-section ul,
+#resume-preview .job-section ol {
+  margin-right: 2em; /* Right margin only for job sections */
+}
+
+#resume-preview .publications-section ul {
+  margin-left: 0.5em;
+  margin: 0em;
+  margin-bottom: 0.3em;
+  color: rgb(15, 15, 15);
+  list-style-type: disc;
+}
+
+/* Add spacing between publication entries */
+
+#resume-preview .job-section ul li {
+  margin-bottom: 0.2em; /* Adjust this value to increase/decrease spacing */
+}
+
+#resume-preview .publications-section ul li {
+  margin-bottom: 0.2em; /* Adjust this value to increase/decrease spacing */
+}
+
+/* Optional: Remove margin from the last item to avoid extra space at bottom */
+#resume-preview .publications-section ul li:last-child {
+  margin-bottom: 0;
+}
+
+/* Definition Lists */
+
+#resume-preview dl {
+  display: flex;
+}
+
+#resume-preview dl dt,
+#resume-preview dl dd:not(:last-child) {
+  flex: 1;
+}
+
+/* Tex */
+
+#resume-preview :not(span.katex-display) > span.katex {
+  font-size: 1em !important;
+}
+
+/* SVG & Images */
+
+#resume-preview svg.iconify {
+  vertical-align: -0.2em;
+}
+
+#resume-preview img {
+  max-width: 100%;
+}
+
+/* Header */
+
+#resume-preview .resume-header {
+  text-align: center;
+}
+
+#resume-preview .resume-header h1 {
+  text-align: center;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+#resume-preview .resume-header-item:not(.no-separator)::after {
+  content: " | ";
+}
+
+/* Citations */
+
+#resume-preview [data-scope="cross-ref"][data-part="definitions"] {
+  padding-left: 1.2em;
+}
+
+#resume-preview [data-scope="cross-ref"][data-part="definition"] p {
+  margin-left: 0.5em;
+}
+
+#resume-preview [data-scope="cross-ref"][data-part="definition"]::marker {
+  content: attr(data-label);
+}
+
+#resume-preview [data-scope="cross-ref"][data-part="reference"] {
+  font-size: 100%;
+  top: 0;
+}
+
+/* Dark & print mode */
+
+.dark #resume-preview [data-scope="vue-smart-pages"][data-part="page"] {
+  background-color: hsl(213, 12%, 15%);
+  color: hsl(216, 12%, 84%);
+}
+
+@media print {
+  #resume-preview [data-scope="vue-smart-pages"][data-part="page"] {
+    background-color: white !important;
+    color: black !important;
+  }
+}
+#resume-preview ul {
+  list-style-type: disc; /* First level keeps circle bullets */
+}
+
+#resume-preview ul ul {
+  list-style-type: none; /* Remove default bullets */
+  position: relative; /* For positioning the custom dash */
+  
+}
+
+#resume-preview ul ul li:before {
+  content: "–"; /* En dash */
+  position: absolute;
+  margin-left: -1em;
+}

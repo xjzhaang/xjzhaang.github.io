@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xingjian Zhang's Homepage</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            font-size: 16px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 60rem;
+            margin: 0 auto;
+            padding: 1rem;
+        }
+
+        .header-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        @media (min-width: 768px) {
+            .header-content {
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: flex-start;
+                text-align: left;
+            }
+        }
+
+        .profile-info {
+            flex-grow: 1;
+        }
+
+        .name-section {
+            margin: 1rem 0;
+        }
+
+        .social-links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        @media (min-width: 768px) {
+            .social-links {
+                justify-content: flex-start;
+            }
+        }
+
+        .social-links a {
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+            color: #666;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+
+        .profile-img {
+            width: 140px;
+            height: 140px;
+            object-fit: cover;
+            border-radius: 50%;
+            border: 4px solid #fff;
+            box-shadow: 0 0 0 2px #eee;
+            margin-top: 1.5rem;
+            margin-right: 1.5rem;
+        }
+
+        @media (min-width: 768px) {
+            .profile-img {
+                width: 160px;
+                height: 160px;
+                margin-left: 3rem;
+
+                
+            }
+        }
+
+        h1 {
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            font-weight: 700;
+            margin-bottom: 0.8rem;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 0.8rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #eee;
+        }
+
+        h3 {
+            font-size: 1.2rem;
+            margin: 1.5rem 0 1rem 0;
+        }
+        
+        #about {
+            margin-top: 2rem; /* Increase this value to add more space */
+            text-align: justify; /* Added text justification */
+        }
+
+        /* Sticky navigation styles */
+        .nav-container {
+            position: sticky;
+            top: 0;
+            background-color: white;
+            z-index: 1000;
+            width: 100%;
+            border-top: 1px solid #eee;
+            border-bottom: 1px solid #eee;
+        }
+
+        nav {
+            padding: 1rem 0;
+            margin: 0 auto;
+            max-width: 60rem;
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+
+        nav a {
+            color: #666;
+            color: #014260;
+            color: #00677F;
+            text-decoration: none;
+            margin-right: 1.5rem;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+
+        .social-links a:hover {
+            color: #AC145A;
+           
+        }
+        
+        /* Added at line 82 */
+        a {
+            color: #0085CA;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #AC145A;
+        }
+        
+        /* Add some padding to sections to prevent content from being hidden under the sticky nav */
+        section {
+            margin-bottom: 3rem;
+            scroll-margin-top: 4rem;
+            padding-bottom: 1rem;
+            /* border-bottom: 1px solid #eee; */
+        }
+
+        @media (min-width: 768px) {
+            .publications-list {
+                padding-left: 2rem;
+            }
+        }
+
+        @media (min-width: 768px) {
+            .project-container {
+                padding: 1.5rem;
+            }
+        }
+
+        .publications-list {
+            list-style-type: none;
+            padding-left: 2rem;
+            margin-top: 1rem;
+        }
+
+        .publication-item {
+            position: relative;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
+            padding-left: 1.5rem;
+            text-align: justify; /* Added text justification */
+        }
+
+        .publication-item::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: #014260;
+            font-size: 0.85rem; /* Changed from 1.2rem to match text size */
+            line-height: 1.6; /* Added to ensure vertical alignment */
+        }
+
+        /* New style to emphasize journal names */
+        .publication-item .journal {
+            /* Italicize journal names    */
+            font-style: italic;
+            color: #000000; /* Optional: match bullet color for cohesiveness */
+        }
+
+        .pdf-link {
+            color: #0085CA;
+            text-decoration: none;
+        }
+        .project-container {
+            margin-top: 1rem;
+            padding: 1.5rem;
+            background: #f8f8f8;
+            border-radius: 8px;
+        }
+
+        .project-subtitle {
+            color: #666;
+            margin-top: 0.5rem;
+        }
+
+        .badges {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .badges img {
+            height: 20px;
+            max-width: 100%;
+        }
+
+        .features ul {
+            margin-bottom: 1rem;
+        }
+
+        .features li {
+            margin-bottom: 0.5rem;
+        }
+        .social-icon {
+            width: 12px;
+            height: 12px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div class="profile-info">
+                    <div class="name-section">
+                        <h1>Xingjian Zhang</h1>
+                        <p>PhD student in computer vision for bioimaging</p>
+                    </div>
+                    <div class="social-links">
+                        <a href="https://scholar.google.fr/citations?user=wElVc0oAAAAJ" target="_blank"> <i class="fa-brands fa-google-scholar" aria-hidden="true"></i>Google Scholar</a>
+                        <a href="https://github.com/xjzhaang" target="_blank">  <i class="fab fa-fw fa-github" aria-hidden="true"></i>GitHub</a>
+                        <a href="https://www.linkedin.com/in/xingjianzhangphd/" target="_blank"> <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>
+                        <a href="content/Xingjian_Zhang_CV.pdf" class="pdf-link"> <i class="fa-solid fa-book" aria-hidden="true"></i> CV </a>
+                    </div>
+                </div>
+                <img src="content/profile.png" alt="Profile" class="profile-img">
+            </div>
+        </header>
+
+        <div class="nav-container">
+            <nav>
+                <a href="#about">About</a>
+                <a href="#publications">Publications</a>
+                <a href="#projects">Projects</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
+
+        <section id="about">
+            <h2>About me</h2>
+            <p>I am a PhD student in the <a href="https://www.ladhyx.polytechnique.fr/fr/">Hydrodynamics Laboratory</a> of École Polytechnique (LADHYX) and the <a href="https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/image-modelisation-analyse-geometrie-synthese-images">Information Processing and Communications Laboratory</a> of Télécom Paris (LTCI).</p>
+            
+            <p style="margin-top: 1rem;">My research aims to quantify cellular nuclear deformations on microgroove substrates using deep learning, supervised by Prof. <a href="https://scholar.google.com/citations?user=jDErd3MAAAAJ&hl=en">Abdul Barakat</a> and Prof. <a href="https://perso.telecom-paristech.fr/angelini/">Elsa Angelini</a>.</p>
+            
+            <p style="margin-top: 1rem;">I am interested in <strong>artificial intelligence</strong> for biomedical research and its applications across other data-driven research domains.</p>
+
+            <p style="margin-top: 1rem;">You can download a PDF copy of my CV <a href="content/Xingjian_Zhang_CV.pdf" class="pdf-link">[HERE]</a>.</p>
+        </section>
+
+        <section id="publications">
+            <h2>Publications</h2>                
+            <h4>Journal Articles</h4>
+            <ul class="publications-list">
+                <li class="publication-item">
+                    <p>B. Asadipour, R. Ronzano, J. Morizet, X. Zhang, A. Chessel, P. Mahou, M. Aigrot, B. Stankoff, A. Desmazieres, E. Beaurepaire, and C. Stringari, "Label-free nonlinear microscopy probes cellular metabolism and myelin dynamics in live tissue," <span class="journal">Communications Biology</span>, 2025. <a href="https://doi.org/10.1038/s42003-025-09192-4" class="pdf-link">[PDF]</a></p>
+                </li>
+
+                <li class="publication-item">
+                    <p>M.C. Yagüe, X. Zhang, M. Volpatti, Y. Wei, G. Lebedev, J. Gamby, and A.I. Barakat, "Noninvasive real-time monitoring of cellular spatiotemporal dynamics via machine learning-enhanced electrical impedance spectroscopy," <span class="journal">Science Advances</span>, 2025. <a href="https://doi.org/10.1126/sciadv.adx4919" class="pdf-link">[PDF]</a></p>
+                </li>
+                
+                <li class="publication-item">
+                    <p>C. Leclech, G. Cardillo, B. Roellinger, X. Zhang, J. Frederick, K. Mamchaoui, C. Coirault, and A.I. Barakat, "Micro-scale topography triggers dynamic 3D nuclear deformations," <span class="journal">Advanced Science</span>, 2025. <a href="https://doi.org/10.1002/advs.202410052" class="pdf-link">[PDF]</a></p>
+                </li>
+                
+                <li class="publication-item">
+                    <p>A. Hauguel, K. Kasani, V. Chevance, X. Zhang, A.I. Barakat, S. Haulon, and A. Azarine, "Changes in ascending aorta and aortic arch secondary flow patterns following endovascular repair of the descending thoracic aorta," <span class="journal">European Journal of Vascular and Endovascular Surgery</span>, 2025. <a href="https://doi.org/10.1016/j.ejvs.2025.05.005" class="pdf-link">[PDF]</a></p>
+                </li>
+                
+                <li class="publication-item">
+                    <p>B. Asadipour, E. Beaurepaire, X. Zhang, A. Chessel, P. Mahou, W. Supatto, M.C. Schanne-Klein, and C. Stringari, "Modeling and predicting second harmonic generation from protein molecular structure," <span class="journal">Physical Review X</span>, 2024. <a href="https://journals.aps.org/prx/pdf/10.1103/PhysRevX.14.011038" class="pdf-link">[PDF]</a></p>
+                </li>
+            </ul>
+
+            <h4>Conference Proceedings</h4>
+            <ul class="publications-list">
+                <li class="publication-item">
+                    <p>X. Zhang, C. Leclech, L. Blivet-Bailly, A.I. Barakat, and E.D. Angelini, "Log focal frequency loss for bioimage restoration," <span class="journal">IEEE International Symposium on Biomedical Imaging (ISBI)</span> (accepted), 2026.</p>
+                </li>
+                
+                <li class="publication-item">
+                    <p>X. Zhang, C. Leclech, B. Roellinger, C. Coirault, E.D. Angelini, and A.I. Barakat, "Myoblast mutation classification via microgroove-induced nuclear deformations," <span class="journal">Medical Imaging with Deep Learning (MIDL)</span>, 2024. <a href="https://openreview.net/pdf?id=687qKBVmEN" class="pdf-link">[PDF]</a></p>
+                </li>
+                
+                <li class="publication-item">
+                    <p>G. Pogudin and X. Zhang, "Interpretable exact linear reductions via positivity," <span class="journal">Computational Methods in Systems Biology (CMSB)</span>, 2021. <a href="https://arxiv.org/pdf/2104.14180" class="pdf-link">[PDF]</a></p>
+                </li>
+            </ul>
+<!-- 
+            <h4>Pre-prints</h4>
+
+            <ul class="publications-list">                
+                <li class="publication-item">
+                    <p>S. Lim, X. Zhang, E. Beaurepaire, and A. Chessel, "BioImageLoader: Easy Handling of Bioimage Datasets for Machine Learning," 2023. <a href="https://arxiv.org/pdf/2303.02158" class="pdf-link">[PDF]</a></p>
+                </li>
+            </ul> -->
+            
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="project-container">
+                <h3>BioimageLoader</h3>
+                <p class="project-subtitle"><em>Load bioimages for machine learning applications</em></p>
+                
+                <div class="badges" style="margin: 1rem 0;">
+                    <a href="https://pypi.org/project/bioimageloader/" target="_blank"><img src="https://img.shields.io/pypi/pyversions/bioimageloader" alt="Python version"></a>
+                    <a href="https://pypi.org/project/bioimageloader/" target="_blank"><img src="https://img.shields.io/pypi/v/bioimageloader" alt="PyPI version"></a>
+                    <a href="https://pypi.org/project/bioimageloader/" target="_blank"><img src="https://img.shields.io/pypi/dm/bioimageloader" alt="PyPI download per month"></a>
+                    <a href="https://github.com/LaboratoryOpticsBiosciences/bioimageloader/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/LaboratoryOpticsBiosciences/bioimageloader" alt="License"></a>
+                </div>
+
+                <p><a href="https://github.com/LaboratoryOpticsBiosciences/bioimageloader" target="_blank">bioimageloader</a> is a python library to make it easy to load bioimage datasets for machine learning and deep learning.</p>
+
+                <p style="margin-top: 1rem;">Bioimages come in numerous and inhomogeneous forms. bioimageloader attempts to wrap them in unified interfaces, so that you can easily concatenate, perform image augmentation, and batch-load them.</p>
+
+                <div class="features" style="margin-top: 1.5rem;">
+                    <p><strong>bioimageloader provides:</strong></p>
+                    <ul style="list-style-type: decimal; margin-left: 2rem; margin-top: 0.5rem;">
+                        <li>collections of interfaces for popular and public bioimage datasets</li>
+                        <li>image augmentation using <a href="https://albumentations.ai/" target="_blank">albumentations</a>, which is popular and powerful image augmentation library (for 2D images)</li>
+                        <li>compatibility with <a href="https://pytorch.org/" target="_blank">pytorch</a></li>
+                        <li>and with others such as <a href="https://scikit-learn.org/stable/index.html" target="_blank">scikit-learn</a> and <a href="https://www.tensorflow.org/" target="_blank">tensorflow</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>
+                Email: 
+                <span style="color:#02426a">xingjian.zhang@polytechnique.edu</span> |
+                <span style="color:#df0a36">xingjian.zhang@telecom-paris.fr</span>
+            </p>
+            <p style="margin-top: 0.5rem;">Office: Batiment 104, Bd des Maréchaux, 91120, Palaiseau</p>
+        </section>
+    </div>
+
+    <script>
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
