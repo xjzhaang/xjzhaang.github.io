@@ -124,15 +124,19 @@ Contributions to high-impact research (Science Advances, Communications Biology)
 
 ## Projects
 
-**Industry ML Applications**
-- Leading ML development for automated hot flash detection via skin conductance 
-  (Elocare / NUS Singapore) | 2025 – present
-- Developed time-series models for electrical impedance spectroscopy in cellular monitoring (Sensome) | Science Advances 2025
+**Hot Flash Detection from Wearable Signals** | Elocare / NUS Singapore | 2025 – present  
+Developing ML models for automated hot flash detection from wearable skin conductance signals.
 
+<div style="margin-top: 0.3rem;"></div>
 
-**Open Source**
-- Contributor to BioImageLoader: a Python library for large-scale bioimage data loading in ML pipelines | <a href="https://pypi.org/project/bioimageloader/" target="_blank" style="color: #2563eb; text-decoration: underline;">PyPI</a> · 
-<a href="https://arxiv.org/abs/2303.02158" target="_blank" style="color: #2563eb; text-decoration: underline;">arXiv</a>
+**Time-Series Modeling for Cellular Impedance** | Sensome / Ecole Polytechnique | 2025  
+Designed and trained a CNN-LSTM model for cell classification from impedance data. Published in *Science Advances*.
+
+<div style="margin-top: 0.3rem;"></div>
+
+**BioImageLoader** | Open Source  
+Contributor to a Python library for large-scale bioimage data loading in ML pipelines. | 
+<a href="https://arxiv.org/abs/2303.02158" target="_blank" style="color: #2563eb; text-decoration: underline;">arXiv</a> · <a href="https://pypi.org/project/bioimageloader/" target="_blank" style="color: #2563eb; text-decoration: underline;">PyPI</a>  
 
 
 ## Skills
