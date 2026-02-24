@@ -98,7 +98,7 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
 <div class="job-section">
 <div class="job-header">
   <div class="job-title">PhD Researcher <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Ecole Polytechnique & Telecom Paris</span></div>
-  <span class="date-right">Nov 2023 - Present</span>
+  <span class="date-right">Paris, France  · Nov 2023 - Present</span>
 </div>
 
 - Built self-supervised learning pipelines for classifying cellular mutations from nuclear deformation phenotypes induced by microgroove substrates.  Developed and deployed web applications for clinical collaborators to run model inference and interpret quantitative imaging results directly.
@@ -111,7 +111,7 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
 <div class="job-section">
   <div class="job-header">
     <div class="job-title">Research Engineer Intern <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Dassault Systemes</span></div>
-    <span class="date-right">Mar 2023 - Sep 2023</span>
+    <span class="date-right"> Paris, France · Mar 2023 - Sep 2023</span>
   </div>
 
 - Designed and trained 3D CNN and transformer-based models for automated tumor segmentation on volumetric CT scans, scaling experimentation across multi-GPU clusters.
@@ -121,7 +121,7 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
 <div class="job-section">
   <div class="job-header">
     <div class="job-title">Research Intern <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Ecole Polytechnique</span></div>
-    <span class="date-right">Apr 2022 - Mar 2023</span>
+    <span class="date-right">Paris, France  · Apr 2022 - Mar 2023</span>
   </div>
 
 - Built image analysis and segmentation pipelines for pSHG and THG nonlinear microscopy, enabling label-free multimodal characterization of tissue metabolism and myelin distribution.
