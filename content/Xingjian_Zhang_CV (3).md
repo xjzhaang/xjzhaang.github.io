@@ -51,7 +51,7 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
   <span class="date-right">Nov 2023 - Present</span>
 </div>
 
-- Built self-supervised learning pipelines for classifying cellular mutations from nuclear deformation phenotypes induced by microgroove substrates.  Developed and deployed web applications enabling clinical to run model inference and interpret quantitative imaging results directly.
+- Built self-supervised learning pipelines for classifying cellular mutations from nuclear deformation phenotypes induced by microgroove substrates.  Developed and deployed web applications for clinical collaborators to run model inference and interpret quantitative imaging results directly.
 
 - Developed generative models (GANs, diffusion) for bioimage restoration, introducing a frequency-domain loss function to address spectral imbalance in training sparse bioimages.
 
