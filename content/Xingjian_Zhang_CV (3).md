@@ -3,15 +3,14 @@ name: Xingjian Zhang
 header:
   - text: <span class="iconify" data-icon="tabler:phone"></span> (+33) 663899163
   - text: <span class="iconify" data-icon="tabler:mail"></span> xingjian.zhang@melix.org
-    link: mailto:xingjian.zhang@polytechnique.edu
+    link: mailto:xingjian.zhang@melix.org
   - text: <span class="iconify" data-icon="mdi:web"></span>xjzhaang.github.io
     link: https://xjzhaang.github.io
 ---
 
-<!-- ## Summary
+## Summary
 
-PhD candidate in multiple for biomedical imaging specializing in self-supervised learning and generative models for image restoration. 
-Contributions to high-impact research (Science Advances, Communications Biology) with industry ML experience. -->
+PhD researcher at Ecole Polytechnique specializing in self-supervised and generative deep learning for biomedical imaging. Industry research experience building and training ML models on multi-GPU clusters. Publications including Science Advances, Communications Biology, and Physical Review X.
 
 
 ## Education
@@ -21,12 +20,10 @@ Contributions to high-impact research (Science Advances, Communications Biology)
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: px;padding-left: 2px;">
   <em>PhD in Biomedical Engineering - Machine Learning</em>
-  <span class="date-right">2023 - Present</span>
+  <span class="date-right">2023 - Present (exp. Apr 2027)</span>
 </div>
 <ul style="margin-top: -0.5px; margin-bottom: 6px;">
-   <!-- <li style="font-size: 0.85em;">MSc 2023, 4.0 GPA, PhD track Excellence Scholarship</li> -->
   <li style="font-size: 0.85em;">Supervisors: Abdul I. Barakat, Elsa D. Angelini</li>
-  <li style="font-size: 0.85em;">Expected graduation: April 2027</li>
 </ul>
 
 <div style="display: flex; justify-content: space-between; margin-top: -3px;padding-left: 2px;">
@@ -50,52 +47,48 @@ Contributions to high-impact research (Science Advances, Communications Biology)
 
 <div class="job-section">
 <div class="job-header">
-            <div class="job-title">Ecole Polytechnique & Telecom Paris  <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name"> PhD candidate </span></div>
-            <span class="date-right">Nov 2023 - Present</span>
- </div>
-
-- Applying self-supervised learning to microscopy imaging for mutation classification via 
-  nuclear deformation phenotypes, with contributions in generative modeling for bioimage 
-  restoration and interactive visualisation tools for clinical communication
-
-- Teaching assistant at Ecole Polytechnique and Telecom Paris for master-level courses in ML, 
-  DL, Medical Imaging, and Object Recognition; co-supervised three Master's research projects in computer vision 
-  and biomedical imaging
+  <div class="job-title">PhD Researcher <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Ecole Polytechnique & Telecom Paris</span></div>
+  <span class="date-right">Nov 2023 - Present</span>
 </div>
 
-<div class="job-section">
-    <div class="job-header">
-        <div class="job-title">Dassault Systemes <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Research Engineer Intern </span></div>
-        <span class="date-right">Mar 2023 - Sep 2023</span>
-    </div>
+- Built self-supervised learning pipelines for classifying cellular mutations from nuclear deformation phenotypes induced by microgroove substrates.  Developed and deployed web applications enabling clinical to run model inference and interpret quantitative imaging results directly.
 
-- Designed and trained 3D CNN and transformer-based models for automated tumor segmentation on volumetric CT scans, scaling experimentation across multi-GPU clusters
-- Prototyped a fully volumetric ViT architecture as a proposed replacement for the existing 2D R-CNN segmentation pipeline, demonstrating improved 3D spatial consistency and generalization
+- Developed generative models (GANs, diffusion) for bioimage restoration, introducing a frequency-domain loss function to address spectral imbalance in training sparse bioimages.
+
+- Teaching assistant for master-level courses in ML, Deep Learning, Medical Imaging, and Object Recognition; co-supervised three MSc research projects in computer vision and biomedical imaging.
 </div>
 
 <div class="job-section">
   <div class="job-header">
-        <div class="job-title">Ecole Polytechnique  <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name"> Research Intern </span></div>
-        <span class="date-right">Apr 2022 - Mar 2023</span>
+    <div class="job-title">Research Engineer Intern <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Dassault Systemes</span></div>
+    <span class="date-right">Mar 2023 - Sep 2023</span>
   </div>
 
-- Developed image analysis and segmentation pipelines for pSHG and THG nonlinear microscopy, 
-  contributing to multimodal label-free characterisation of tissue metabolism and myelin distribution
+- Designed and trained 3D CNN and transformer-based models for automated tumor segmentation on volumetric CT scans, scaling experimentation across multi-GPU clusters.
+- Prototyped a fully volumetric ViT architecture to replace the existing 2D Faster R-CNN pipeline, demonstrating improved 3D spatial consistency across public benchmark datasets.
+</div>
+
+<div class="job-section">
+  <div class="job-header">
+    <div class="job-title">Research Intern <span style="font-weight: normal;">&nbsp;|&nbsp;</span> <span class="company-name">Ecole Polytechnique</span></div>
+    <span class="date-right">Apr 2022 - Mar 2023</span>
+  </div>
+
+- Built image analysis and segmentation pipelines for pSHG and THG nonlinear microscopy, enabling label-free multimodal characterization of tissue metabolism and myelin distribution.
 </div>
 
 
-## Publications 
+## Selected Publications
 
 <div class="publications-section">
 
 <strong class="job-title">First Author</strong>
 
-- <span class="thin-underline">X Zhang</span>, C Leclech, L Blivet-Bailly, AI Barakat, and ED Angelini, "Log focal frequency loss for bioimage restoration", <span class="conference"><em>IEEE International Symposium on Biomedical Imaging (ISBI)</em></span>, 2026
+- <span class="thin-underline">X Zhang</span> et al., "Log focal frequency loss for bioimage restoration", <span class="conference"><em>IEEE International Symposium on Biomedical Imaging (ISBI)</em></span>, 2026
 
-- <span class="thin-underline">X Zhang</span>, C Leclech, B Roellinger, C Coirault, ED Angelini, and AI Barakat, "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">Medical Imaging with Deep Learning (MIDL)</span>, 2024
+- <span class="thin-underline">X Zhang</span> et al., "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">Medical Imaging with Deep Learning (MIDL)</span>, 2024
 
-
-<div style="margin-top: 0.5em; margin-bottom: 0.1em;">
+<div style="margin-top: -0.2em; margin-bottom: 0em;">
 <strong class="job-title" style="display: inline;">Co-authored </strong> <span style="font-size: 0.85em; font-weight: normal;">(† denotes equal contribution)</span>
 </div>
 
@@ -107,37 +100,43 @@ Contributions to high-impact research (Science Advances, Communications Biology)
 
 - C Leclech, G Cardillo, B Roellinger, <span class="thin-underline">X Zhang</span>, et al., "Microscale topography triggers dynamic 3D nuclear deformations", <span class="conference"><strong>Advanced Science</strong></span>, 2025
 
-<!-- - A Hauguel, K Kasani, V Chevance, <span class="thin-underline">X Zhang</span>, et al., "Changes in ascending aorta and aortic arch secondary flow patterns following endovascular repair", <span class="conference">European Journal of Vascular and Endovascular Surgery</span>, 2025 -->
-
 </div>
 
 <p style="text-align: right; font-size: 0.8em; color: #666; margin-bottom: -10px">
+<!-- <span style="font-weight: normal;">† denotes equal contribution</span> ·  -->
     Full publication list on 
     <a href="https://scholar.google.fr/citations?user=wElVc0oAAAAJ" 
        target="_blank" 
        style="color: #2563eb; text-decoration: underline;">
         Google Scholar
     </a>
+    
 </p>
 
-<div class="job-section">
+
 
 ## Projects
+<div class="job-section">
 
-**Hot Flash Detection from Wearable Signals** | Elocare / NUS Singapore | 2025 – present  
-Developing ML models for automated hot flash detection from wearable skin conductance signals.
+**Hot Flash Detection from Wearable Signals** | Elocare / NUS, Singapore  <span class="date-right">2025 - Present</span>
 
-<div style="margin-top: 0.3rem;"></div>
-
-**Time-Series Modeling for Cellular Impedance** | Sensome / Ecole Polytechnique | 2025  
-Designed and trained a CNN-LSTM model for cell classification from impedance data. Published in *Science Advances*.
+Developing ML models for automated detection and prediction of hot flash events from wearable skin conductance signals.
 
 <div style="margin-top: 0.3rem;"></div>
 
-**BioImageLoader** | Open Source  
-Contributor to a Python library for large-scale bioimage data loading in ML pipelines. | 
-<a href="https://arxiv.org/abs/2303.02158" target="_blank" style="color: #2563eb; text-decoration: underline;">arXiv</a> · <a href="https://pypi.org/project/bioimageloader/" target="_blank" style="color: #2563eb; text-decoration: underline;">PyPI</a>  
+**Time-Series Modeling for Cellular Impedance** | Sensome / Ecole Polytechnique <span class="date-right">2025 </span>
 
+
+Designed and trained a CNN-LSTM model for cell classification from electrical impedance spectroscopy data. 
+
+<div style="margin-top: 0.3rem;"></div>
+
+**BioImageLoader** | Open Source   <span class="date-right">2023 </span>
+
+Contributor to a Python library for large-scale bioimage data loading in ML pipelines. |
+<a href="https://arxiv.org/abs/2303.02158" target="_blank" style="color: #2563eb; text-decoration: underline;">arXiv</a> · <a href="https://pypi.org/project/bioimageloader/" target="_blank" style="color: #2563eb; text-decoration: underline;">PyPI</a>
+
+</div>
 
 ## Skills
 
@@ -147,17 +146,4 @@ Contributor to a Python library for large-scale bioimage data loading in ML pipe
 
 **Infrastructure:** <span class="iconify" data-icon="vscode-icons:file-type-git"></span>Git, <span class="iconify" data-icon="vscode-icons:file-type-docker"></span>Docker, <span class="iconify" data-icon="mdi:linux"></span>Bash/Shell, Multi-GPU training, HPC/SLURM, <span class="iconify" data-icon="simple-icons:apachespark"></span>PySpark, <span class="iconify" data-icon="simple-icons:pandas"></span>Pandas
 
-<!-- **Imaging:** NIS-Elements, ImageJ/FIJI, Icy, CellProfiler, ITK, 3D Slicer, Imaris, ParaView, MONAI, DICOM/NIFTI/HDF5/ND2 formats -->
-
-<!-- **Imaging Software:** ImageJ/FIJI, ParaView, CellProfiler, Imaris, NIS-Elements, 3D Slicer -->
-
 **Languages:** Chinese (native), English (C2), French (B2)
-
-<!-- ## References
-Available upon request -->
-<!-- 
-## Awards 
-
-PhD Full Fellowship from École Polytechnique, IP Paris
-
-Master's Scholarship from École Polytechnique, IP Paris -->
