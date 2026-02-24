@@ -14,33 +14,83 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
 
 
 ## Education
-<div class="job-header">
+<!-- <div class="job-header">
 <strong class="job-title">Ecole Polytechnique</strong>
   <span class="date-right">Paris, France</span>
 </div>
-<div style="display: flex; justify-content: space-between; margin-top: px;padding-left: 2px;">
-  <em>PhD in Biomedical Engineering - Machine Learning</em>
-  <span class="date-right">2023 - Present (exp. Apr 2027)</span>
-</div>
-<ul style="margin-top: -0.5px; margin-bottom: 6px;">
-  <li style="font-size: 0.85em;">Supervisors: Abdul I. Barakat, Elsa D. Angelini</li>
-</ul>
 
-<div style="display: flex; justify-content: space-between; margin-top: -3px;padding-left: 2px;">
-  <em>MSc in Biomedical Engineering</em>
-  <span class="date-right">2021 - 2023</span>
-</div>
-<ul style="margin-top: -0.5px; margin-bottom: 6px;">
-  <li style="font-size: 0.85em;">4.0 GPA, PhD track Excellence Scholarship</li>
-</ul>
+<div style="display: flex; gap: 6px;">
+  <div style="border-left: 1px solid #999999; margin-top: 4px; margin-bottom: 10px; margin-left: 2px;"></div>
+  <div style="flex: 1;">
 
-<div style="display: flex; justify-content: space-between; margin-top: -3px; padding-left: 2px;">
-  <em>BSc in Mathematics and Computer Science</em><br>
-  <span class="date-right">2018 - 2021</span>
+  <div style="display: flex; justify-content: space-between; margin-top: 0px; padding-left: px;">
+    <em>PhD in Biomedical Engineering - Machine Learning</em>
+    <span class="date-right">2023 - Present (exp. Apr 2027)</span>
+  </div>
+  <ul style="margin-top: -0.5px; margin-bottom: 6px;">
+    <li style="font-size: 0.85em;">Supervisors: Abdul I. Barakat, Elsa D. Angelini</li>
+  </ul>
+
+  <div style="display: flex; justify-content: space-between; margin-top: -3px; padding-left: px;">
+    <em>MSc in Biomedical Engineering</em>
+    <span class="date-right">2021 - 2023</span>
+  </div>
+  <ul style="margin-top: -0.5px; margin-bottom: 6px;">
+    <li style="font-size: 0.85em;">4.0 GPA, PhD track Excellence Scholarship</li>
+  </ul>
+
+  <div style="display: flex; justify-content: space-between; margin-top: -3px; padding-left: px;">
+    <em>BSc in Mathematics and Computer Science</em>
+    <span class="date-right">2018 - 2021</span>
+  </div>
+  <ul style="margin-top: -0.5px; margin-bottom: 6px;">
+    <li style="font-size: 0.85em;">3.9 GPA, Cum Laude</li>
+  </ul>
+
+  </div>
+</div> -->
+
+<div style="margin-bottom: 3px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: -4px;">
+    <strong style="font-size: 1.1em;">Ecole Polytechnique</strong>
+    <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555;  padding-top: 3px;">Paris, France</span>
+  </div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <span style="flex: 1; margin-right: 16px;">
+    <em>PhD in Biomedical Engineering – Machine Learning</em>
+    <span style="font-size: 0.85em; color: #555;"> · Supervisors: Abdul I. Barakat, Elsa D. Angelini</span>
+  </span>
+<span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555; padding-top: 3px;">2023 – Present (exp. Apr 2027)</span>
 </div>
-<ul style="margin-top: -0.5px; margin-bottom: 6px;">
-  <li style="font-size: 0.85em;">3.9 GPA, Cum Laude</li>
-</ul>
+</div>
+
+<div style="margin-bottom: 3px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: -4px;">
+    <strong style="font-size: 1.1em;">Ecole Polytechnique</strong>
+    <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555; padding-top: 3px;">Paris, France</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <span style="flex: 1; margin-right: 16px;">
+      <em>MSc in Biomedical Engineering</em>
+      <span style="font-size: 0.85em; color: #555;">· 4.0 GPA · PhD track Excellence Scholarship</span>
+    </span>
+    <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555;padding-top: 3px;">2021 – 2023</span>
+  </div>
+</div>
+
+<div style="margin-bottom: 3px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: -4px;">
+    <strong style="font-size: 1.1em;">Ecole Polytechnique</strong>
+    <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555; padding-top: 3px;">Paris, France</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <span style="flex: 1; margin-right: 16px;">
+      <em>BSc in Mathematics and Computer Science</em>
+      <span style="font-size: 0.85em; color: #555;">· 3.9 GPA · Cum Laude</span>
+    </span>
+    <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555; padding-top: 3px;">2018 – 2021</span>
+  </div>
+</div>
 
 
 ## Experience
@@ -124,7 +174,7 @@ Developing ML models for automated detection and prediction of hot flash events 
 
 <div style="margin-top: 0.3rem;"></div>
 
-**Time-Series Modeling for Cellular Impedance** | Sensome / Ecole Polytechnique <span class="date-right">2025 </span>
+**Time-Series Modeling for Cellular Impedance** | Sensome / Ecole Polytechnique <span class="date-right">2024 - 2025 </span>
 
 
 Designed and trained a CNN-LSTM model for cell classification from electrical impedance spectroscopy data. 

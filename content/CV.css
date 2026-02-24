@@ -50,9 +50,8 @@ body {
 
 
 .date-right {
-    float: right;
     color: #51595a;
-    font-size: 0.9em;
+    font-size: 0.85em;
 }
 
 
@@ -82,16 +81,16 @@ body {
 }
 
 #resume-preview h1 {
-  font-size: 2.12em;
+  font-size: 2em;
 }
 
 #resume-preview h2,
 #resume-preview h3 {
   margin-bottom: 5px;
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 #resume-preview h4 {
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 #resume-preview h2 {
   border-bottom-style: solid;
