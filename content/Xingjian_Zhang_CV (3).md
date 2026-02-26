@@ -52,12 +52,12 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
 
 <div style="margin-bottom: 3px;">
   <div style="display: flex; justify-content: space-between; margin-bottom: -4px;">
-    <strong style="font-size: 1.1em;">Ecole Polytechnique</strong>
+    <strong style="font-size: 1.1em;">Ecole Polytechnique / Telecom Paris</strong>
     <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555;  padding-top: 3px;">Paris, France</span>
   </div>
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <span style="flex: 1; margin-right: 16px;">
-    <em>PhD in Biomedical Engineering – Machine Learning</em>
+    <em>PhD in Biomedical Engineering and Machine Learning</em>
     <span style="font-size: 0.85em; color: #555;"> · Supervisors: Abdul I. Barakat, Elsa D. Angelini</span>
   </span>
 <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555; padding-top: 3px;">2023 – Present (exp. Apr 2027)</span>
@@ -71,8 +71,8 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
   </div>
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <span style="flex: 1; margin-right: 16px;">
-      <em>MSc in Biomedical Engineering</em>
-      <span style="font-size: 0.85em; color: #555;">· 4.0 GPA · PhD track Excellence Scholarship</span>
+      <em>MSc in Mechanics: Biomechanics and Biomedical Engineering</em>
+      <span style="font-size: 0.85em; color: #555;">· 4.0 GPA · PhD Track Excellence Scholarship</span>
     </span>
     <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555;padding-top: 3px;">2021 – 2023</span>
   </div>
@@ -136,7 +136,7 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
 
 - <span class="thin-underline">X Zhang</span> et al., "Log focal frequency loss for bioimage restoration", <span class="conference"><em>IEEE International Symposium on Biomedical Imaging (ISBI)</em></span>, 2026
 
-- <span class="thin-underline">X Zhang</span> et al., "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">Medical Imaging with Deep Learning (MIDL)</span>, 2024
+- <span class="thin-underline">X Zhang</span> et al., "Myoblast mutation classification via microgroove-induced nuclear deformations", <span class="conference">Medical Imaging with Deep Learning (MIDL)</span> Short paper, 2024
 
 <div style="margin-top: -0.2em; margin-bottom: 0em;">
 <strong class="job-title" style="display: inline;">Co-authored </strong> <span style="font-size: 0.85em; font-weight: normal;">(† denotes equal contribution)</span>
@@ -146,9 +146,10 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
 
 - B Asadipour, R Ronzano&dagger;, J Morizet&dagger;, <span class="thin-underline">X Zhang</span>&dagger;, et al., "Label-free multimodal non-linear microscopy to probe metabolism and myelin distribution", <span class="conference"><strong>Communications Biology</strong></span>, 2025
 
+- C Leclech, G Cardillo, B Roellinger, <span class="thin-underline">X Zhang</span>, et al., "Microscale topography triggers dynamic 3D nuclear deformations", <span class="conference"><strong>Advanced Science</strong></span>, 2025
+
 - B Asadipour, E Beaurepaire, <span class="thin-underline">X Zhang</span>, et al., "Modeling and predicting second harmonic generation from protein molecular structure", <span class="conference"><strong>Physical Review X</strong></span>, 2024
 
-- C Leclech, G Cardillo, B Roellinger, <span class="thin-underline">X Zhang</span>, et al., "Microscale topography triggers dynamic 3D nuclear deformations", <span class="conference"><strong>Advanced Science</strong></span>, 2025
 
 </div>
 
