@@ -12,7 +12,8 @@ header:
 
 <!-- PhD researcher at Ecole Polytechnique specializing in self-supervised and generative deep learning for biomedical imaging. Industry research experience building and training ML models on multi-GPU clusters. Publications including Science Advances, Communications Biology, and Physical Review X. -->
 
-PhD researcher at Ecole Polytechnique working at the intersection of deep learning research and biomedical imaging, with industry experience across medtech startups and large-scale ML systems. Published in peer-reviewed venues (Science Advances, PRX, Comms Bio) while contributing to applied projects spanning clinical deployment, wearable signals, and microscopy imaging.
+PhD researcher at École Polytechnique developing machine learning methods for biomedical imaging and biophysical signal analysis. Published in Science Advances, Physical Review X, and Communications Biology. Builds scalable modeling and automated analysis pipelines across interdisciplinary research and industry collaborations in medtech and clinical settings.
+
 
 ## Education
 <!-- <div class="job-header">
