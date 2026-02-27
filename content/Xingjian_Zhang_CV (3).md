@@ -10,8 +10,9 @@ header:
 
 ## Summary
 
-PhD researcher at Ecole Polytechnique specializing in self-supervised and generative deep learning for biomedical imaging. Industry research experience building and training ML models on multi-GPU clusters. Publications including Science Advances, Communications Biology, and Physical Review X.
+<!-- PhD researcher at Ecole Polytechnique specializing in self-supervised and generative deep learning for biomedical imaging. Industry research experience building and training ML models on multi-GPU clusters. Publications including Science Advances, Communications Biology, and Physical Review X. -->
 
+PhD researcher at Ecole Polytechnique working at the intersection of deep learning research and biomedical imaging, with industry experience across medtech startups and large-scale ML systems. Published in peer-reviewed venues (Science Advances, PRX, Comms Bio) while contributing to applied projects spanning clinical deployment, wearable signals, and microscopy imaging.
 
 ## Education
 <!-- <div class="job-header">
@@ -101,11 +102,11 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
   <span class="date-right">Paris, France  · Nov 2023 - Present</span>
 </div>
 
-- Built self-supervised learning pipelines for classifying cellular mutations from nuclear deformation phenotypes induced by microgroove substrates.  Developed and deployed web applications for clinical collaborators to run model inference and interpret quantitative imaging results directly.
+- Built self-supervised learning pipelines for classifying cellular mutations from nuclear deformation phenotypes induced by microgroove substrates.  Developed and deployed web applications for three clinical collaborator groups to run model inference and interpret quantitative imaging results directly.
 
-- Developed generative models (GANs, diffusion) for bioimage restoration, introducing a frequency-domain loss function to address spectral imbalance in training sparse bioimages.
+- Developed generative models (GANs, diffusion) for bioimage restoration, introducing a frequency-domain loss function to address spectral imbalance in sparse bioimages, validated across multiple fluorescence microscopy datasets.
 
-- Teaching assistant for master-level courses in ML, Deep Learning, Medical Imaging, and Object Recognition; co-supervised three MSc research projects in computer vision and biomedical imaging.
+- Co-supervised four MSc research projects in computer vision and biomedical imaging; teaching assistant for master-level courses in ML, Deep Learning, Medical Imaging, and Object Recognition.
 </div>
 
 <div class="job-section">
@@ -166,25 +167,25 @@ PhD researcher at Ecole Polytechnique specializing in self-supervised and genera
 
 
 
-## Projects
+## Projects and Collaborations
 <div class="job-section">
 
 **Hot Flash Detection from Wearable Signals** | Elocare / NUS, Singapore  <span class="date-right">2025 - Present</span>
 
-Developing ML models for automated detection and prediction of hot flash events from wearable skin conductance signals.
+- ML lead on a Franco-Singaporean Merlion PHC funded project with Singapore-based medtech startup Elocare, developing models for automated detection and prediction of hot flash events from wearable skin conductance signals.
 
 <div style="margin-top: 0.3rem;"></div>
 
 **Time-Series Modeling for Cellular Impedance** | Sensome / Ecole Polytechnique <span class="date-right">2024 - 2025 </span>
 
 
-Designed and trained a CNN-LSTM model for cell classification from electrical impedance spectroscopy data. 
+- Designed and trained a CNN-LSTM model for cell classification from electrical impedance spectroscopy data, contributing the ML component to a CIFRE collaboration between EP and Sensome. Published in Science Advances (2025).
 
 <div style="margin-top: 0.3rem;"></div>
 
 **BioImageLoader** | Open Source   <span class="date-right">2023 </span>
 
-Contributor to a Python library for large-scale bioimage data loading in ML pipelines. |
+- Contributor to a Python library for large-scale bioimage data loading in ML pipelines. |
 <a href="https://arxiv.org/abs/2303.02158" target="_blank" style="color: #2563eb; text-decoration: underline;">arXiv</a> · <a href="https://pypi.org/project/bioimageloader/" target="_blank" style="color: #2563eb; text-decoration: underline;">PyPI</a>
 
 </div>

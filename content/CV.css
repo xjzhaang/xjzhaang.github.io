@@ -81,7 +81,7 @@ body {
 }
 
 #resume-preview h1 {
-  font-size: 2em;
+  font-size: 1.8em;
 }
 
 #resume-preview h2,
@@ -178,7 +178,8 @@ body {
 #resume-preview .resume-header h1 {
   text-align: center;
   line-height: 1;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
+
 }
 
 #resume-preview .resume-header-item:not(.no-separator)::after {
