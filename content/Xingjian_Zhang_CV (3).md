@@ -74,7 +74,7 @@ PhD researcher at École Polytechnique developing machine learning methods for b
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <span style="flex: 1; margin-right: 16px;">
       <em>MSc in Mechanics: Biomechanics and Biomedical Engineering</em>
-      <span style="font-size: 0.85em; color: #555;">· 4.0 GPA · PhD Track Excellence Scholarship</span>
+      <span style="font-size: 0.85em; color: #555;">· 4.0 GPA · Fully-funded PhD Track Excellence Scholarship</span>
     </span>
     <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555;padding-top: 3px;">2021 – 2023</span>
   </div>
@@ -171,16 +171,15 @@ PhD researcher at École Polytechnique developing machine learning methods for b
 ## Projects and Collaborations
 <div class="job-section">
 
-**Hot Flash Detection from Wearable Signals** | Elocare / NUS, Singapore  <span class="date-right">2025 - Present</span>
+**Hot Flash Detection from Wearable Signals** | EloCare / NUS, Singapore  <span class="date-right">2025 - Present</span>
 
-- ML lead on a Franco-Singaporean Merlion PHC funded project with Singapore-based medtech startup Elocare, developing models for automated detection and prediction of hot flash events from wearable skin conductance signals.
+- ML lead on an international collaboration with Singapore-based medtech startup EloCare, developing models for automated detection and prediction of hot flash events from wearable skin conductance signals.
 
 <div style="margin-top: 0.3rem;"></div>
 
 **Time-Series Modeling for Cellular Impedance** | Sensome / Ecole Polytechnique <span class="date-right">2024 - 2025 </span>
 
-
-- Designed and trained a CNN-LSTM model for cell classification from electrical impedance spectroscopy data, contributing the ML component to a CIFRE collaboration between EP and Sensome. Published in Science Advances (2025).
+- Designed and trained CNN-LSTM models for cell classification from electrical impedance spectroscopy, developing all ML components for an EP-Sensome project. Published in Science Advances (2025).
 
 <div style="margin-top: 0.3rem;"></div>
 
