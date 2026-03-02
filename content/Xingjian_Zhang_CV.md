@@ -179,7 +179,7 @@ PhD researcher at École Polytechnique developing machine learning methods for b
 
 **Time-Series Modeling for Cellular Impedance** | Sensome / Ecole Polytechnique <span class="date-right">2024 - 2025 </span>
 
-- Designed and trained CNN-LSTM models for cell classification from electrical impedance spectroscopy, developing all ML components for an EP-Sensome project. Published in Science Advances (2025).
+- Designed and trained CNN-LSTM models for cell classification from electrical impedance spectroscopy, developing all ML components for an EP-Sensome project. Published in Science Advances (2025). [<a href="https://www.cnrs.fr/fr/presse/une-nouvelle-etude-demontre-que-lapproche-innovante-de-la-technologie-de-sensome-permet-de" target="_blank" style="color: #2563eb; text-decoration: underline;">CNRS press release</a>]
 
 <div style="margin-top: 0.3rem;"></div>
 
