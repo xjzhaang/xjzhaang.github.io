@@ -105,7 +105,7 @@ PhD researcher at École Polytechnique developing machine learning methods for b
   <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555; padding-top: 3px;">Paris, France  · Nov 2023 - Present</span>
 </div>
 
-- Built self-supervised learning pipelines for classifying cellular mutations from nuclear deformation morphology.  Developed and deployed a visualisation interface and an inference web application for three independent clinical collaborator groups.
+- Built self-supervised learning pipelines for classifying cellular mutations from nuclear deformation morphology, targeting functional drug screening applications in laminopathy research. Developed and deployed a visualisation interface and an inference web application for three independent clinical collaborator groups.
 
 - Developed generative models (GANs, diffusion) for bioimage restoration, introducing a frequency-domain loss function for improved spectral fidelity across fluorescence microscopy datasets, accepted at ISBI 2026.
 
@@ -118,7 +118,7 @@ PhD researcher at École Polytechnique developing machine learning methods for b
     <span style="white-space: nowrap; flex-shrink: 0; font-size: 0.85em; color: #555; padding-top: 3px;">Paris, France · Mar 2023 - Sep 2023</span>
   </div>
 
-- Designed and trained 3D CNN and transformer-based models for automated tumor segmentation on volumetric CT scans, scaling experimentation across multi-GPU clusters.
+- Designed and trained 3D CNN and transformer-based models for automated tumor segmentation on volumetric CT scans within the TwinOnco project (AP-HP / Dassault Systemes), scaling experimentation across multi-GPU clusters.
 - Prototyped a fully volumetric ViT architecture to replace the existing 2D Faster R-CNN pipeline, demonstrating improved 3D spatial consistency across public benchmark datasets.
 </div>
 
@@ -149,7 +149,7 @@ PhD researcher at École Polytechnique developing machine learning methods for b
 
 **Time-Series Modeling for Cellular Impedance** | Sensome / Ecole Polytechnique <span class="date-right">2024 - 2025 </span>
 
-- Built the full ML pipeline for cell classification and parameter prediction from noninvastive label-free EIS recordings, achieving R² > 0.8 and AUC = 0.96 on cancer classification. Featured in a <a href="https://www.cnrs.fr/fr/presse/une-nouvelle-etude-demontre-que-lapproche-innovante-de-la-technologie-de-sensome-permet-de" target="_blank" style="color: #2563eb; text-decoration: underline;">CNRS press release</a> and published in Science Advances.
+- Built the full ML pipeline for cell classification and parameter prediction from noninvasive label-free EIS recordings, achieving R² > 0.8 and AUC = 0.96 on cancer classification. Featured in a <a href="https://www.cnrs.fr/fr/presse/une-nouvelle-etude-demontre-que-lapproche-innovante-de-la-technologie-de-sensome-permet-de" target="_blank" style="color: #2563eb; text-decoration: underline;">CNRS press release</a> and published in Science Advances.
 
 <div style="margin-top: 0.3rem;"></div>
 
